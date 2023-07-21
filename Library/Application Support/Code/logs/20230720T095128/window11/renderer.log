@@ -1,0 +1,8 @@
+2023-07-21 15:39:45.715 [info] Started initializing default profile extensions in extensions installation folder. file:///Users/douglastrindade/.vscode/extensions
+2023-07-21 15:39:46.496 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///Users/douglastrindade/.vscode/extensions Unable to create file 'vscode-userdata:/Users/douglastrindade/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-07-21 15:39:46.496 [info] Completed initializing default profile extensions in extensions installation folder. file:///Users/douglastrindade/.vscode/extensions
+2023-07-21 15:39:48.783 [info] [perf] Render performance baseline is 48ms
+2023-07-21 15:40:05.249 [info] [perf] Render performance baseline is 60ms
+2023-07-21 15:40:12.167 [error] Error while registering log channel file:///Users/douglastrindade/Library/Application%20Support/Code/logs/20230720T095128/sharedprocess.log Timed out while waiting for file to be created
+2023-07-21 15:40:12.186 [error] Error while registering log channel file:///Users/douglastrindade/Library/Application%20Support/Code/logs/20230720T095128/main.log Timed out while waiting for file to be created
+2023-07-21 15:40:12.186 [error] Error while registering log channel file:///Users/douglastrindade/Library/Application%20Support/Code/logs/20230720T095128/userDataSync.log Timed out while waiting for file to be created

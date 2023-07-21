@@ -1,0 +1,32 @@
+2023-07-21 15:39:46.886 [info] Extension host with pid 60568 started
+2023-07-21 15:39:47.237 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-21 15:39:47.322 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-21 15:39:47.493 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-21 15:39:47.700 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-21 15:39:47.852 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-21 15:39:48.172 [info] Eager extensions activated
+2023-07-21 15:39:48.185 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-21 15:39:48.194 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-21 15:39:51.563 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-21 15:39:51.574 [info] Extension host with pid 60568 exiting with code 0
+2023-07-21 15:39:54.440 [info] Extension host with pid 60588 started
+2023-07-21 15:39:54.440 [info] Skipping acquiring lock for /Users/douglastrindade/Library/Application Support/Code/User/workspaceStorage/7058cad7011fa6e27808a621c9051e21.
+2023-07-21 15:39:54.702 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-21 15:39:54.746 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2023-07-21 15:39:54.932 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-21 15:39:56.025 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-21 15:39:56.034 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-07-21 15:39:56.427 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-21 15:39:56.763 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-21 15:39:58.292 [info] Eager extensions activated
+2023-07-21 15:39:58.951 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-21 15:39:58.962 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-21 15:40:01.271 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-21 15:40:01.755 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-21 15:40:03.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 564
+2023-07-21 15:40:08.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 625
+2023-07-21 15:40:14.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 658
+2023-07-21 15:40:26.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2023-07-21 15:40:33.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2023-07-21 15:40:40.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
+2023-07-21 15:40:53.070 [warning] [Decorations] CAPPING events from decorations provider vscode.git 660
